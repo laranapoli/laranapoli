@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laranapoli
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science/MLOps
+- 🌱 I’m currently learning Terraform
 - 📫 How to reach me: laranapoli0@gmail.com / www.linkedin.com/in/laranapoli/
 
 <!---
